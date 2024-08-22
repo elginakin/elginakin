@@ -3,7 +3,7 @@
 
 <h3 align="center">PhD Student @ Johns Hopkins University | Bloomberg School of Public Health</h3>
 
-🖥️ ** Personal Website: ** [elginakin.github.io](https://elginakin.github.io/)
+🖥️ **Personal Website:** [elginakin.github.io](https://elginakin.github.io/)
 
 ### Experience
 
