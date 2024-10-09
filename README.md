@@ -5,12 +5,12 @@
 
 🖥️ **Personal Website:** [elginakin.github.io](https://elginakin.github.io/)
 
-### Education
+### 📚 Education
 
 - PhD Candidate studying influenza viruses. Supervised by [Dr. Andy Pekosz](https://pekoszlab.com/) 
 - BS in Microbiology @ The University of Tennessee Knoxville (2019)
 
-### Experience
+### 📍 Experience
 
 - ORISE Fellow in Parasitology + Bioinformatics @ WRAIR (2019 - 2021)
 
